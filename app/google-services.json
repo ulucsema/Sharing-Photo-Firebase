@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "132875639261",
+    "project_id": "photosharing-270c4",
+    "storage_bucket": "photosharing-270c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132875639261:android:7d0f0ecb3bb1accad2fe34",
+        "android_client_info": {
+          "package_name": "com.semauluc.sharingphotofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9RYf88c7_DVsbqw-wF07Lw1XJzgsUKr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
